@@ -120,7 +120,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/maps\/hq.json"
+                 "value":"..\/zw-map\/maps\/hq.json"
                 }],
          "type":"tilelayer",
          "visible":true,
