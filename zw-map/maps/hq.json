@@ -34,7 +34,7 @@
          "name":"start",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":100,
          "x":0,
          "y":0
@@ -46,7 +46,7 @@
          "name":"floot",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":100,
          "x":0,
          "y":0
@@ -58,7 +58,7 @@
          "name":"starkduft",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":100,
          "x":0,
          "y":0
@@ -90,6 +90,17 @@
          "type":"tilelayer",
          "visible":false,
          "width":100,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "id":3,
+         "name":"floorLayer",
+         "objects":[],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":false,
          "x":0,
          "y":0
         }, 
@@ -144,17 +155,6 @@
          "type":"tilelayer",
          "visible":false,
          "width":100,
-         "x":0,
-         "y":0
-        }, 
-        {
-         "draworder":"topdown",
-         "id":3,
-         "name":"floorLayer",
-         "objects":[],
-         "opacity":1,
-         "type":"objectgroup",
-         "visible":false,
          "x":0,
          "y":0
         }],
