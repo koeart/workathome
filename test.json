@@ -275,7 +275,7 @@
                 {
                  "name":"jitsiInstance",
                  "type":"string",
-                 "value":"https:\/\/kleiber.xvlc.de"
+                 "value":"https:\/\/kleiber.xvlc.de\/"
                 }, 
                 {
                  "name":"jitsiRoom",
