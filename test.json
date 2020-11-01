@@ -250,9 +250,14 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"jitsiInstance",
+                 "type":"string",
+                 "value":"https:\/\/kleiber.xvlc.de"
+                }, 
+                {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"https:\/\/kleiber.xvlc.de\/redenmitoma"
+                 "value":"redenmitoma"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -268,9 +273,14 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"jitsiInstance",
+                 "type":"string",
+                 "value":"https:\/\/kleiber.xvlc.de"
+                }, 
+                {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"https:\/\/kleiber.xvlc.de\/redenmitkoeart"
+                 "value":"redenmitkoeart"
                 }],
          "type":"tilelayer",
          "visible":true,
