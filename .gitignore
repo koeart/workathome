@@ -1,0 +1,5 @@
+*.tmx
+*.orig
+*.tiled-project
+*.tiled-session
+*.kra
