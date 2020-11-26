@@ -496,7 +496,7 @@
                 {
                  "name":"openAudioStream",
                  "type":"string",
-                 "value":"http:\/\/ice6.somafm.com\/vaporwaves-128-mp3"
+                 "value":"http:\/\/ftp.c3d2.de\/pentacast\/pentamusic-2011-mb21.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
