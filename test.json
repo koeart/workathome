@@ -494,7 +494,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openAudioStream",
+                 "name":"playAudioStream",
                  "type":"string",
                  "value":"http:\/\/ftp.c3d2.de\/pentacast\/pentamusic-2011-mb21.mp3"
                 }],
