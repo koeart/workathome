@@ -19,7 +19,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"http:\/\/streaming.fueralle.org:8000\/coloradio_160.mp3.m3u"
+                 "value":"http:\/\/streaming.fueralle.org:8000\/coloradio_160.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
