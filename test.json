@@ -707,6 +707,7 @@
          "imagewidth":512,
          "margin":0,
          "name":"rc3",
+         "objectalignment":"center",
          "spacing":0,
          "tilecount":1024,
          "tileheight":32,
