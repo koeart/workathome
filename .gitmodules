@@ -1,0 +1,4 @@
+[submodule "tilesets/rc3_tiles"]
+	path = tilesets/rc3_tiles
+	url = https://github.com/cbluoss/rc3_tiles.git
+	branch = master
