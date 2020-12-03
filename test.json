@@ -1642,20 +1642,6 @@
          "tileheight":32,
          "tilewidth":32,
          "transparentcolor":"#ffffff"
-        }, 
-        {
-         "columns":16,
-         "firstgid":8314,
-         "image":"tilesets\/rc3_tiles\/imgs\/tilesheets\/leipzig_messe.png",
-         "imageheight":2048,
-         "imagewidth":512,
-         "margin":0,
-         "name":"leipzig_messe",
-         "spacing":0,
-         "tilecount":1024,
-         "tileheight":32,
-         "tilewidth":32,
-         "transparentcolor":"#ffffff"
         }],
  "tilewidth":32,
  "type":"map",
