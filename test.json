@@ -1068,7 +1068,7 @@
                  "id":139
                 }],
          "tilewidth":32,
-         "transparentcolor":"#ffffff"
+         "transparentcolor":"#000000"
         }, 
         {
          "columns":16,
