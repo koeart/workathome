@@ -1079,6 +1079,7 @@
          "imagewidth":512,
          "margin":0,
          "name":"c3_deko",
+         "objectalignment":"center",
          "spacing":0,
          "tilecount":1024,
          "tileheight":32,
