@@ -1569,39 +1569,7 @@
                  "id":500
                 }],
          "tilewidth":32,
-         "transparentcolor":"#ffffff",
-         "wangsets":[
-                {
-                 "cornercolors":[
-                        {
-                         "color":"#ff0000",
-                         "name":"asdf",
-                         "probability":1,
-                         "tile":-1
-                        }, 
-                        {
-                         "color":"#00ff00",
-                         "name":"",
-                         "probability":1,
-                         "tile":-1
-                        }],
-                 "edgecolors":[
-                        {
-                         "color":"#ff0000",
-                         "name":"",
-                         "probability":1,
-                         "tile":-1
-                        }, 
-                        {
-                         "color":"#00ff00",
-                         "name":"",
-                         "probability":1,
-                         "tile":-1
-                        }],
-                 "name":"New Wang Set",
-                 "tile":-1,
-                 "wangtiles":[]
-                }]
+         "transparentcolor":"#ffffff"
         }],
  "tilewidth":32,
  "type":"map",
