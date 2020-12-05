@@ -712,6 +712,20 @@
          "tileheight":32,
          "tilewidth":32,
          "transparentcolor":"#000000"
+        }, 
+        {
+         "columns":16,
+         "firstgid":5946,
+         "image":"tilesets\/c3_deko.png",
+         "imageheight":2048,
+         "imagewidth":512,
+         "margin":0,
+         "name":"c3_deko",
+         "spacing":0,
+         "tilecount":1024,
+         "tileheight":32,
+         "tilewidth":32,
+         "transparentcolor":"#000000"
         }],
  "tilewidth":32,
  "type":"map",
