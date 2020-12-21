@@ -49,7 +49,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/ice2.somafm.com\/defcon-256-mp3"
+                 "value":"https:\/\/soma.fm"
                 }],
          "type":"tilelayer",
          "visible":true,
