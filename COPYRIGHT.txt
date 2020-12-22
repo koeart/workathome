@@ -1,0 +1,14 @@
+# all used tilesets were checked before use if use for non-commercial purposes is possible.
+
+Here are the links:
+
+# Pipoya Tilesets
+https://pipoya.itch.io/pipoya-rpg-tileset-32x32
+https://pipoya.itch.io/pipoya-free-rpg-world-tileset-32x32-40x40-48x48
+
+# floortileset
+https://opengameart.org/content/32x32-tilemap-grass-dungeon-floors-snow-water
+
+# Deviant
+https://www.deviantart.com/milkian/art/Tilesets-FSM-RM2K3-para-VX-Ace-Set-Escritorio-651542743
+
