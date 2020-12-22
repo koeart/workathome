@@ -63,12 +63,6 @@
          "id":42,
          "name":"exit_chaosz0ne-hub",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"exitUrl",
-                 "type":"string",
-                 "value":"https:\/\/github.com\/chaosz0ne\/shared\/main\/main.json"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,
