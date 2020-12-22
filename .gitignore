@@ -1,4 +1,5 @@
 *.tmx
+*.tsx
 *.orig
 *.tiled-project
 *.tiled-session
