@@ -31,7 +31,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<c3d3>main.json#entry_koeart_workathome}"
+                 "value":"https:\/\/test.visit.at.wa-test.rc3.cccv.de\/_\/global\/raw.githubusercontent.com\/c3d2\/ds2020workadventuretest\/master\/main.json#entry_koeart_workathome"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -83,9 +83,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"{<chaoszone>\/main.json}",
+                 "name":"exitUrl",
                  "type":"string",
-                 "value":""
+                 "value":"https:\/\/test.visit.at.wa-test.rc3.cccv.de\/_\/global\/raw.githubusercontent.com\/chaosz0ne\/shared\/main\/main.json"
                 }],
          "type":"tilelayer",
          "visible":true,
