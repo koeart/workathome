@@ -446,9 +446,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
-                 "value":".\/zw-map\/maps\/hq.json"
+                 "value":"https:\/\/test.visit.at.wa-test.rc3.cccv.de\/_\/global\/raw.githubusercontent.com\/c3d2\/ds2020workadventuretest\/master\/main.json#entry_koeart_workathome"
                 }],
          "type":"tilelayer",
          "visible":true,
