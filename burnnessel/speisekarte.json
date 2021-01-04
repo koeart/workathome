@@ -6,24 +6,24 @@
          "target":"."
         }
     },
- "height":3,
+ "height":5,
  "infinite":false,
  "layers":[
         {
          "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-         "height":3,
+         "height":5,
          "id":7,
          "name":"kollision",
          "opacity":1,
          "type":"tilelayer",
          "visible":true,
-         "width":5,
+         "width":3,
          "x":0,
          "y":0
         }, 
         {
-         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1193, 1193, 0, 0],
-         "height":3,
+         "data":[0, 0, 0, 0, 0, 0, 0, 0, 1610612793, 0, 0, 1610612793, 0, 0, 0],
+         "height":5,
          "id":5,
          "name":"start",
          "opacity":1,
@@ -35,13 +35,13 @@
                 }],
          "type":"tilelayer",
          "visible":true,
-         "width":5,
+         "width":3,
          "x":0,
          "y":0
         }, 
         {
-         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1193, 0, 0, 0, 1193],
-         "height":3,
+         "data":[0, 0, 0, 0, 0, 1610612794, 0, 0, 0, 0, 0, 0, 0, 0, 1610612794],
+         "height":5,
          "id":6,
          "name":"exit_kneipe",
          "opacity":1,
@@ -49,71 +49,71 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/kneipe.json#entry_speisekarte"
+                 "value":"..\/burnnessel.json#entry_speisekarte"
                 }],
          "type":"tilelayer",
          "visible":true,
-         "width":5,
+         "width":3,
          "x":0,
          "y":0
         }, 
         {
-         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-         "height":3,
+         "data":[313, 313, 313, 791, 792, 313, 799, 800, 313, 799, 800, 313, 799, 800, 313],
+         "height":5,
          "id":3,
          "name":"fussboden",
          "opacity":1,
          "type":"tilelayer",
          "visible":true,
-         "width":5,
-         "x":0,
-         "y":0
-        }, 
-        {
-         "data":[323, 323, 323, 3113, 323, 700, 700, 700, 700, 701, 323, 323, 323, 323, 323],
-         "height":3,
-         "id":1,
-         "name":"tresen",
-         "opacity":1,
-         "type":"tilelayer",
-         "visible":true,
-         "width":5,
-         "x":0,
-         "y":0
-        }, 
-        {
-         "data":[1770, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-         "height":3,
-         "id":8,
-         "name":"objekte-1",
-         "opacity":1,
-         "type":"tilelayer",
-         "visible":true,
-         "width":5,
+         "width":3,
          "x":0,
          "y":0
         }, 
         {
          "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-         "height":3,
+         "height":5,
+         "id":1,
+         "name":"tresen",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":3,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+         "height":5,
+         "id":8,
+         "name":"objekte-1",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":3,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+         "height":5,
          "id":9,
          "name":"objekte-2",
          "opacity":1,
          "type":"tilelayer",
          "visible":true,
-         "width":5,
+         "width":3,
          "x":0,
          "y":0
         }, 
         {
-         "data":[0, 3116, 3117, 0, 0, 0, 3124, 3125, 0, 0, 0, 0, 0, 0, 0],
-         "height":3,
+         "data":[0, 0, 0, 0, 0, 0, 1610613805, 1610613813, 0, 1610613804, 1610613812, 0, 0, 0, 0],
+         "height":5,
          "id":2,
          "name":"speisekarte",
          "opacity":1,
          "type":"tilelayer",
          "visible":true,
-         "width":5,
+         "width":3,
          "x":0,
          "y":0
         }, 
@@ -138,7 +138,7 @@
         {
          "columns":8,
          "firstgid":1,
-         "image":"..\/..\/tiles\/fantasy.png",
+         "image":"..\/tilesets\/Pipoya RPG Tileset 32x32\/[Base]BaseChip_pipo.png",
          "imageheight":4256,
          "imagewidth":256,
          "margin":0,
@@ -245,24 +245,81 @@
                          "type":"bool",
                          "value":true
                         }]
-                }],
-         "tilewidth":32,
-         "transparentcolor":"#003039"
-        }, 
-        {
-         "columns":32,
-         "firstgid":1065,
-         "image":"..\/..\/tiles\/chaos_zone_shared.png",
-         "imageheight":2048,
-         "imagewidth":1024,
-         "margin":0,
-         "name":"chaos_zone_shared",
-         "spacing":0,
-         "tilecount":2048,
-         "tileheight":32,
-         "tiles":[
+                }, 
                 {
-                 "id":255,
+                 "id":789,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":790,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":791,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":797,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":798,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":799,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":805,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":806,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":807,
                  "properties":[
                         {
                          "name":"collides",
@@ -275,8 +332,8 @@
         }, 
         {
          "columns":1,
-         "firstgid":3113,
-         "image":"..\/..\/tiles\/kneipe\/Kneipier-small.png",
+         "firstgid":1065,
+         "image":"..\/tilesets\/burnnessel\/Kneipier-small.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
@@ -289,8 +346,8 @@
         }, 
         {
          "columns":8,
-         "firstgid":3114,
-         "image":"..\/..\/tiles\/kneipe\/kneipe.png",
+         "firstgid":1066,
+         "image":"..\/tilesets\/burnnessel\/kneipe.png",
          "imageheight":512,
          "imagewidth":256,
          "margin":0,
@@ -304,5 +361,5 @@
  "tilewidth":32,
  "type":"map",
  "version":1.4,
- "width":5
+ "width":3
 }
