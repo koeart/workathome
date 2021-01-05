@@ -1,6 +1,7 @@
 *.tmx
 *.tsx
 *.orig
+*.kra-autosave.kra
 *.tiled-project
 *.tiled-session
 *.swp~
