@@ -531,6 +531,73 @@
                 }],
          "tilewidth":32,
          "transparentcolor":"#000000"
+        }, 
+        {
+         "columns":16,
+         "firstgid":3374,
+         "image":"tilesets\/rc3.png",
+         "imageheight":2048,
+         "imagewidth":512,
+         "margin":0,
+         "name":"rc3",
+         "spacing":0,
+         "tilecount":1024,
+         "tileheight":32,
+         "tiles":[
+                {
+                 "animation":[
+                        {
+                         "duration":60000,
+                         "tileid":5
+                        }, 
+                        {
+                         "duration":60000,
+                         "tileid":6
+                        }, 
+                        {
+                         "duration":60000,
+                         "tileid":7
+                        }],
+                 "id":37
+                }, 
+                {
+                 "animation":[
+                        {
+                         "duration":60000,
+                         "tileid":21
+                        }, 
+                        {
+                         "duration":60000,
+                         "tileid":22
+                        }, 
+                        {
+                         "duration":50000,
+                         "tileid":23
+                        }, 
+                        {
+                         "duration":2000,
+                         "tileid":21
+                        }, 
+                        {
+                         "duration":2000,
+                         "tileid":22
+                        }, 
+                        {
+                         "duration":2000,
+                         "tileid":21
+                        }, 
+                        {
+                         "duration":2000,
+                         "tileid":22
+                        }, 
+                        {
+                         "duration":2000,
+                         "tileid":23
+                        }],
+                 "id":53
+                }],
+         "tilewidth":32,
+         "transparentcolor":"#000000"
         }],
  "tilewidth":32,
  "type":"map",
