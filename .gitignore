@@ -2,6 +2,7 @@
 *.tsx
 *.orig
 *.kra-autosave.kra
+*.png-autosave.kra
 *.tiled-project
 *.tiled-session
 *.swp~
