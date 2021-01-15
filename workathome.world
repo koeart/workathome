@@ -1,0 +1,62 @@
+{
+    "maps": [
+        {
+            "fileName": "main.json",
+            "height": 3200,
+            "width": 3200,
+            "x": 0,
+            "y": 0
+        },
+        {
+            "fileName": "burnnessel.json",
+            "height": 800,
+            "width": 800,
+            "x": 3199,
+            "y": 0
+        },
+        {
+            "fileName": "partykeller.json",
+            "height": 1344,
+            "width": 1344,
+            "x": 3998,
+            "y": 0
+        },
+        {
+            "fileName": "hzdr.json",
+            "height": 3200,
+            "width": 3200,
+            "x": 5341,
+            "y": 0
+        },
+        {
+            "fileName": "zw-map/maps/rudi.json",
+            "height": 3200,
+            "width": 3200,
+            "x": 0,
+            "y": 3392
+        },
+        {
+            "fileName": "zw-map/maps/hq.json",
+            "height": 3200,
+            "width": 3200,
+            "x": -960,
+            "y": 58752
+        },
+        {
+            "fileName": "zw-map/maps/outside.json",
+            "height": 3200,
+            "width": 3200,
+            "x": 1312,
+            "y": 65984
+        },
+        {
+            "fileName": "zw-map/maps/haus_a.json",
+            "height": 3200,
+            "width": 3200,
+            "x": 1183,
+            "y": 67840
+        }
+    ],
+    "onlyShowAdjacentMaps": false,
+    "type": "world"
+}
